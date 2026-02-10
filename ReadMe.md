@@ -4,7 +4,7 @@
 
 ---
 
-## - Screenshots
+## Screenshots
 
 <p align="center">
   <img src="https://i.imgur.com/aXsbNHf.png" width="800" />
@@ -16,7 +16,7 @@
 
 ---
 
-## - Como executar o projeto
+## Como executar o projeto
 
 ### 1. Instalar dependências
 
