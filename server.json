@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "inflow",
+      "category": "Venda",
+      "price": 15000,
+      "createdAt": "2025-05-21T17:47:39.656Z"
+    },
+    {
+      "id": 2,
+      "description": "Despesa Alimentícia",
+      "type": "outflow",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2025-04-21T17:42:39.656Z"
+    },
+    {
+      "id": 3,
+      "description": "Pagamento de funcionário",
+      "type": "outflow",
+      "category": "Salário",
+      "price": 8490,
+      "createdAt": "2025-04-21T17:42:39.656Z"
+    },
+    {
+      "id": 4,
+      "description": "Desenvolvimento de API",
+      "type": "inflow",
+      "category": "Venda",
+      "price": 9550,
+      "createdAt": "2025-04-21T17:42:39.656Z"
+    },
+    {
+      "description": "App Mobile",
+      "price": 12450,
+      "category": "Venda",
+      "type": "inflow",
+      "createdAt": "2025-06-02T17:44:12.878Z",
+      "id": 5
+    },
+    {
+      "description": "Almoço executivo",
+      "price": 500,
+      "category": "Alimentação",
+      "type": "outflow",
+      "createdAt": "2025-06-02T18:03:43.962Z",
+      "id": 6
+    }
+  ]
+}
